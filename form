@@ -1,0 +1,6 @@
+<form action="mailto: rowle110@canton.edu">
+<input type="radio"> red \n
+    <input type="radio"> green \n
+    <input type="radio"> yellow \n
+    <input type="text" placeholder="other">
+</form>
